@@ -1,10 +1,9 @@
 {
-  "latestVersion": "1.1",
-  "latestVersionCode": "11",
-  "url": "https://veryleaks.cz/drm/app/VeryLeaks.apk",
+  "latestVersion": "1.2",
+  "latestVersionCode": "12",
+  "url": "https://veryleaks.cz/app/VeryLeaks.apk",
   "releaseNotes": [
-    "- Mises à jour automatiques\n",
-    "- Ajout de l'affichage du titre de la page\n",
-    "- Réglage de crashs\n"
+    " - Réglage de crashs\n",
+	" - L'application annonce au démarrage qu'elle est à jour"
   ]
 }
