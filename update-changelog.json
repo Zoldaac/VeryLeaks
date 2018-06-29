@@ -1,9 +1,10 @@
 {
-  "latestVersion": "1.2",
-  "latestVersionCode": "12",
+  "latestVersion": "1.2.1",
+  "latestVersionCode": "121",
   "url": "https://veryleaks.cz/app/VeryLeaks.apk",
   "releaseNotes": [
     " - Réglage de crashs\n",
-    " - L'application annonce au démarrage qu'elle est à jour"
+    " - L'application annonce au démarrage qu'elle est à jour\n"
+	" - Ajout de l'ouverture de l'application lors d'un clic sur un lien VeryLeak's"
   ]
 }
