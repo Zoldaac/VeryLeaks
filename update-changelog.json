@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "latestVersion": "1.2.4",
   "latestVersionCode": "124",
@@ -11,4 +12,18 @@
 	" - Correction d'un beug lors de l'ouverture d'une notification depuis la barre d'action\n",
     " - Fix d'un beug qui n'ouvrait plus les URL quand on cliquait dessus depuis une autre application que VeryLeak's"
   ]
+=======
+{
+  "latestVersion": "1.2.3",
+  "latestVersionCode": "123",
+  "url": "https://veryleaks.cz/app/VeryLeaks.apk",
+  "releaseNotes": [
+    " - Réglage de crashs\n",
+    " - Optimisation du code\n",
+    " - Nouvel icône pour l'application\n",
+    " - Fix d'un beug qui n'affichait plus l'application à l'accueil\n",
+    " - Ajout de l'ouverture de l'application lors d'un clic sur un lien VeryLeak's\n",
+	" - Correction d'un beug lors de l'ouverture d'une notification depuis la barre d'action"
+  ]
+>>>>>>> 22d6cadff5d5cf4698884d6b315f29dc70d108b1
 }
