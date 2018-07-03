@@ -1,12 +1,12 @@
 {
-  "latestVersion": "1.2.5",
-  "latestVersionCode": "125",
-  "url": "https://dl.veryleaks.cz/app/VeryLeaks-1.2.5.apk",
+  "latestVersion": "1.2.6",
+  "latestVersionCode": "126",
+  "url": "https://dl.veryleaks.cz/app/VeryLeaks-1.2.6.apk",
   "releaseNotes": [
     " - Réglage de crashs\n",
     " - Optimisation du code\n",
-    " - Nouvelle image pour l'écran de démarrage\n",
-    " - Correction d'un beug lors de l'ouverture d'une notification depuis la barre d'action\n",
-    " - Fix d'un beug qui n'ouvrait plus les URL quand on cliquait dessus depuis une autre application que VeryLeak's"
+    " - Fix de l'icône de l'application qui ne s'affichait pas sur tous les mobiles\n",
+    " - Désactivation de l'activitée 'Paramètres', elle est encore en développement et présente un gros bug qui peut devenir très dérangeant\n",
+    " - Plus de crash quand on quitte l'application et qu'on revient dessus après, elle n'indique plus nonplus qu'il pas d'internet alors que si",
   ]
 }
