@@ -7,6 +7,6 @@
     " - Optimisation du code\n",
     " - Fix de l'icône de l'application qui ne s'affichait pas sur tous les mobiles\n",
     " - Désactivation de l'activitée 'Paramètres', elle est encore en développement et présente un gros bug qui peut devenir très dérangeant\n",
-    " - Plus de crash quand on quitte l'application et qu'on revient dessus après, elle n'indique plus nonplus qu'il pas d'internet alors que si",
+    " - Plus de crash quand on quitte l'application et qu'on revient dessus après, elle n'indique plus nonplus qu'il pas d'internet alors que si"
   ]
 }
