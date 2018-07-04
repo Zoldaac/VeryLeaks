@@ -1,12 +1,11 @@
 {
-  "latestVersion": "1.2.7",
-  "latestVersionCode": "127",
-  "url": "https://dl.veryleaks.cz/app/VeryLeaks-1.2.7.apk",
+  "latestVersion": "1.2.8",
+  "latestVersionCode": "128",
+  "url": "https://dl.veryleaks.cz/app/VeryLeaks-1.2.8.apk",
   "releaseNotes": [
     " - Réglage de crashs\n",
     " - Optimisation du code\n",
-    " - Fix de l'icône de l'application qui ne s'affichait pas sur tous les mobiles\n",
-    " - Désactivation de l'activitée 'Paramètres', elle est encore en développement et présente un gros bug qui peut devenir très dérangeant\n",
-    " - Plus de crash quand on quitte l'application et qu'on revient dessus après, elle n'indique plus nonplus qu'il pas d'internet alors que si"
+    " - Support des GIF sur les images de profil\n",
+    " - Les notifications sont de retour après une désactivation involontaire"
   ]
 }
