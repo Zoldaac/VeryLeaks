@@ -1,11 +1,11 @@
 {
-  "latestVersion": "1.2.8",
-  "latestVersionCode": "128",
-  "url": "https://dl.veryleaks.cz/app/VeryLeaks-1.2.8.apk",
+  "latestVersion": "1.3",
+  "latestVersionCode": "130",
+  "url": "https://dl.veryleaks.cz/app/VeryLeaks-1.3.apk",
   "releaseNotes": [
     " - Réglage de crashs\n",
     " - Optimisation du code\n",
-    " - Support des GIF sur les images de profil\n",
-    " - Les notifications sont de retour après une désactivation involontaire"
+    " - Connexion automatique au compte sur le forum !\n\n",
+    "ATTENTION ! MERCI DE LIRE CE MESSAGE ATTENTIVEMENT, POUR FAIRE CETTE MISE À JOUR, VOUS DEVEZ ABSOLUMENT SUPPRIMER LES DATAS DE L'APPLICATION VERYLEAK'S !\n\nPour faire ceci, rendez-vous dans les paramètres de votre téléphone rubrique applications, ensuite rendez-vous dans veryleak's et faites stockage, supprimer les données."
   ]
 }
